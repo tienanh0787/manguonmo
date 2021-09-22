@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "K/l6LysavBEzqmdebQo5xOt83ssbea5GwmjG0XJVgjw8iFmiq+f5FFcmmfXEooN9Z/qMGOmOmEkp75CBNLUq4Q==",
+  "dgSpecHash": "4LjDY0ZhmlixuS7cryMtpBCwN449nARnhPpbclYCzZOQr00u4mBc9lwUPEnlREZJd7k5GHlI+r1RoovBoWijNA==",
   "success": true,
   "projectFilePath": "D:\\Manguonmo\\NetCore\\DemoMVC\\DemoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.10\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0\\microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",

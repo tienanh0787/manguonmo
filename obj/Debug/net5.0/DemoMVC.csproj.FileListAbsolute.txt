@@ -171,3 +171,4 @@ D:\Manguonmo\NetCore\DemoMVC\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g
 D:\Manguonmo\NetCore\DemoMVC\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
 D:\Manguonmo\NetCore\DemoMVC\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
 D:\Manguonmo\NetCore\DemoMVC\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\Manguonmo\NetCore\DemoMVC\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll

@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using DemoMVC.Models;
 
-namespace DemoMVC.Controllers
+namespace MANGUONMO.Controllers
 {
     public class HomeController : Controller
     {
